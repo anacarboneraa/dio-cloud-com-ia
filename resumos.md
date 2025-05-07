@@ -49,3 +49,20 @@
   - Auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação.
 - Gerenciabilidade
   - Opções de gerenciabilidade: Portal Web ou interface de linha de comando.
+
+### Tipos de Serviço de Nuvem na Azure
+- IaaS
+  - Infrastructure as a Service
+  - Servidores e armazenamento, firewalls/segurança de rede, planta física/edifício do datacenter
+- PasS
+  - Platform as a Service
+  - Fornece um abiente para a criação, o teste e a impantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente
+  - Focado em desenvolvimento de aplicativos
+  - Sistemas operacionais, ferramentas para desenvolvedores, análise de negócios de gerenciamento de database (além do que IaaS engloba)
+- SaaS
+  - Software as a Service
+  - Os usuários se conectam e usam aplicativos com base em nuvem pela Internet (ex.: Office 365)
+  - Aplicativos/apps hospedados (além do que PaaS engloba)
+ 
+#### Modelo de responsabilidade compartilhada
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/3ed4cd61-66f6-4d9b-98d0-e718e047371d" />
