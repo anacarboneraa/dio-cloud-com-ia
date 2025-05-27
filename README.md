@@ -8,5 +8,6 @@ Repositório para desafios do **Bootcamp Cloud com Inteligência Artificial** da
 - [Desafio 04 - Validador de Bandeiras de Cartão de Crédito](https://github.com/anacarboneraa/dio-cloud-com-ia/tree/main/desfaio-validador-de-bandeiras)
 - [Desafio 05 - Azure Speech Studio e Language Studio](https://github.com/anacarboneraa/dio-cloud-com-ia/blob/main/desafio05-azure.md)
 - [Desafio 06 - Pesquisa Cognitiva do Azure](https://github.com/anacarboneraa/dio-cloud-com-ia/blob/main/desafio06-pesquisa-cognitiva.md)
+- [Desafio 07- IA Generativa com Copilot e OpenAI](https://github.com/anacarboneraa/dio-cloud-com-ia/blob/main/desafio07-copilot-e-openia.md)
 
 - [Anotações](https://github.com/anacarboneraa/dio-cloud-com-ia/blob/main/resumos.md)
