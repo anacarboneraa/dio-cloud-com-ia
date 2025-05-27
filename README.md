@@ -6,5 +6,6 @@ Repositório para desafios do **Bootcamp Cloud com Inteligência Artificial** da
 - [Desafio 02 - Criar Instância de Banco de dados - Azure](https://github.com/anacarboneraa/dio-cloud-com-ia/blob/main/desafio02-banco-de-dados.md)
 - [Desafio 03 - Relatório de Vendas](https://github.com/anacarboneraa/dio-cloud-com-ia/tree/main/desafio-relat%C3%B3rio-de-vendas)
 - [Desafio 04 - Validador de Bandeiras de Cartão de Crédito](https://github.com/anacarboneraa/dio-cloud-com-ia/tree/main/desfaio-validador-de-bandeiras)
+- [Desafio 05 - Azure Speech Studio e Language Studio](https://github.com/anacarboneraa/dio-cloud-com-ia/blob/main/desafio05-azure.md)
 
 - [Anotações](https://github.com/anacarboneraa/dio-cloud-com-ia/blob/main/resumos.md)
